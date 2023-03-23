@@ -1,4 +1,4 @@
-# mtf-api
+![Monotype](https://www.monotype.com/sites/default/files/styles/width_810/public/2020-06/monotype-legal-logo_0.webp?itok=7mnk2ets)
 
 ## Node.js client library for MTF API
 ![Release](https://img.shields.io/npm/v/mtf-api)
