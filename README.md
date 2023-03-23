@@ -1,4 +1,4 @@
-# mtf-api
+![Monotype](https://www.monotype.com/sites/default/files/styles/width_810/public/2020-06/monotype-legal-logo_0.webp?itok=7mnk2ets)
 
 ## Node.js client library for MTF API
 ![Release](https://img.shields.io/npm/v/mtf-api)
@@ -18,7 +18,7 @@
 
 This library supports the following tooling versions:
 
-- Node.js: `>=8.3.0`
+- Node.js: `>=18.15.0`
 
 ### Installation
 
