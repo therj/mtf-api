@@ -1,12 +1,14 @@
 {
   "name": "mtf-api",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Monotype Fonts API NodeJS client",
   "main": "src/index.js",
   "scripts": {
+    "publish": "npm publish",
+    "link": "npm link",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-    "repository": {
+  "repository": {
     "type": "git",
     "url": "git+https://github.com/therj/mtf-api.git"
   },
@@ -19,7 +21,7 @@
   ],
   "author": "Rabindra Joshi (https://github.com/therj)",
   "license": "MIT",
-    "bugs": {
+  "bugs": {
     "url": "https://github.com/therj/mtf-api/issues"
   },
   "homepage": "https://github.com/therj/mtf-api#readme"
