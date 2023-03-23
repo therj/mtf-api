@@ -18,7 +18,7 @@
 
 This library supports the following tooling versions:
 
-- Node.js: `>=8.3.0`
+- Node.js: `>=18.15.0`
 
 ### Installation
 
